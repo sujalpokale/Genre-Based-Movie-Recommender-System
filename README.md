@@ -48,4 +48,5 @@ To build a basic movie recommendation system that recommends the **top 5 movies*
 ---
 
 ## 📸 Sample UI (Streamlit)
+![image_alt](https://github.com/sujalpokale/Genre-Based-Movie-Recommender-System/blob/ee0c4ab3b6e5a6d43314f7473fdc789ff547161b/Screenshot%202025-07-26%20210727.png)
 
